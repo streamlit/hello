@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = {path = "./streamlit-1.9.0-py2.py3-none-any.whl"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
