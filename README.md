@@ -1,6 +1,6 @@
 # Demo: `streamlit hello` as a native multipage app
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/hello/main/Hello.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/docs/main/python/api-examples-source/Hello.py)
 
 This project highlights Streamlit's new multipage app functionality. 
 
@@ -8,7 +8,7 @@ This project highlights Streamlit's new multipage app functionality.
 
 
 ## How to run this demo
-The demo can be accessed via Streamlit Community Cloud [here](https://share.streamlit.io/streamlit/hello/main/Hello.py) or locally via the following steps:
+The demo can be accessed via Streamlit Community Cloud [here](https://share.streamlit.io/streamlit/docs/main/python/api-examples-source/Hello.py) or locally via the following steps:
 
 ```
 pip install streamlit
