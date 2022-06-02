@@ -22,4 +22,4 @@ streamlit hello
 
 ## Questions? Comments?
 
-Please ask in the [Streamlit community](https://discuss.streamlit.io).
+Please ask in the [community forum](https://discuss.streamlit.io).
