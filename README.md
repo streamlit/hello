@@ -18,7 +18,7 @@ streamlit hello
 ## Learn more 
 
 - [Documentation](https://docs.streamlit.io/library/get-started/multipage-apps)
-- [Blog post](https://blog.streamlt.io/introducing-multipage-apps)
+- [Blog post](https://blog.streamlit.io/introducing-multipage-apps/)
 
 ## Questions? Comments?
 
