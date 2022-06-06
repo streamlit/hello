@@ -20,6 +20,11 @@ streamlit hello
 - [Documentation](https://docs.streamlit.io/library/get-started/multipage-apps)
 - [Blog post](https://blog.streamlit.io/introducing-multipage-apps/)
 
+## Elastic Beanstalk Hosting Support
+
+To host on elastic beanstalk, select docker as type and push the docker image to public image.
+- Adds Dockerfile and Dockerrun file.
+
 ## Questions? Comments?
 
 Please ask in the [community forum](https://discuss.streamlit.io).
